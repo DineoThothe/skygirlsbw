@@ -33,7 +33,7 @@ body {
 }
 
 .hero-banner {
-    background-image: url("images/banner.jpeg"); 
+    background-image: url("banner.jpeg"); 
     background-size: cover;
     background-position: center;
     height: 500px;
